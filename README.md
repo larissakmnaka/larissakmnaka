@@ -27,7 +27,7 @@ Bacharela em Direito pelo Centro Universitário Eurípides de Marília - UNIVEM 
 
 <br>
 
-🚀 Aluna da <a href="https://app.rocketseat.com.br/me/larissakmnaka" target=_blank> Rocketseat </a>
+🚀 Aluna da <a href="https://app.rocketseat.com.br/me/larissakmnaka" target="_blank"> Rocketseat </a>
 
 <br>
 
